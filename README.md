@@ -1,7 +1,6 @@
 
 
-# healthcare
-Healthcare Analysis Project
+# Healthcare Analysis Project
 
  ## Overview 
  Identify hospital , medical condition, Medication and test result by billing amount.
